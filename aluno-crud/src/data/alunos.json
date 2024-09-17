@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1726528756938",
+    "nome": "Fiona",
+    "curso": "Medicina",
+    "ira": "10"
+  },
+  {
+    "id": "1726528756988",
+    "nome": "Cibele",
+    "curso": "Farmacia",
+    "ira": "9"
+  },
+  {
+    "id": "1726528750038",
+    "nome": "Maria",
+    "curso": "Teologia",
+    "ira": "10"
+  },
+  {
+    "id": "172652876939",
+    "nome": "Jorge",
+    "curso": "Música",
+    "ira": "8"
+  },
+  {
+    "id": "172652875888",
+    "nome": "Iracema",
+    "curso": "Medicina",
+    "ira": "6.5"
+  },
+  {
+    "id": "1788528756938",
+    "nome": "Gerusa",
+    "curso": "Música",
+    "ira": "7.5"
+  },
+  {
+    "id": "1726528756999",
+    "nome": "Sabrina",
+    "curso": "Design",
+    "ira": "9"
+  },
+  {
+    "id": "1726528750000",
+    "nome": "Alsamir",
+    "curso": "Ciência da Computação",
+    "ira": "8.5"
+  },
+  {
+    "id": "1726528757778",
+    "nome": "Michael",
+    "curso": "História",
+    "ira": "9.9"
+  },
+  {
+    "id": "3336528756938",
+    "nome": "Flora",
+    "curso": "Medicina",
+    "ira": "8.5"
+  },
+  {
+    "id": "1726528700000",
+    "nome": "Viola",
+    "curso": "Caça",
+    "ira": "7"
+  },
+  {
+    "id": "1726528111111",
+    "nome": "Perdita",
+    "curso": "Talaricagem",
+    "ira": "10"
+  }
+]
