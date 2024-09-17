@@ -3,7 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import NavBar from './components/NavBar';
 import AlunoList from './components/AlunoList';
 import AlunoForm from './components/AlunoForm';
-
+import AlunoListPorCurso from './components/AlunoListPorCurso';
 function App() {
   return (
     <div className="App">
@@ -14,6 +14,7 @@ function App() {
           <Route path="/alunos" element={<AlunoList />} />
           <Route path="/alunos/novo" element={<AlunoForm />} />
           <Route path="/alunos/editar/:id" element={<AlunoForm />} />
+          <Route path="/alunos-por-curso" element={<AlunoListPorCurso />} />
         </Routes>
       </div>
     </div>

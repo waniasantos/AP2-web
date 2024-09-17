@@ -12,6 +12,7 @@ function NavBar() {
           <NavDropdown title="Alunos" id="basic-nav-dropdown">
             <NavDropdown.Item as={Link} to="/alunos/novo">Cadastrar Aluno</NavDropdown.Item>
             <NavDropdown.Item as={Link} to="/alunos">Listar Alunos</NavDropdown.Item>
+            <NavDropdown.Item as={Link} to="/alunos-por-curso">Listar Alunos por Curso</NavDropdown.Item>
           </NavDropdown>
         </Nav>
       </Navbar.Collapse>

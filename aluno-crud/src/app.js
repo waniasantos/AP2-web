@@ -5,7 +5,7 @@ const alunoRoutes = require('./routes/alunoRoutes');
 
 const app = express();
 
-app.use(cors());  // Adicione esta linha para habilitar CORS
+app.use(cors());  
 app.use(bodyParser.json());
 app.use('/alunos', alunoRoutes);
 
